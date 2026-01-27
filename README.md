@@ -3,6 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/taylorivanoff/icloud-drive-windows)](https://github.com/taylorivanoff/icloud-drive-windows/releases)
 [![Downloads](https://img.shields.io/github/downloads/taylorivanoff/icloud-drive-windows/total)](https://github.com/taylorivanoff/icloud-drive-windows/releases)
 [![License](https://img.shields.io/github/license/taylorivanoff/icloud-drive-windows)](LICENSE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
 A native Windows application for accessing iCloud Drive from [icloud.com](https://www.icloud.com/).
 
