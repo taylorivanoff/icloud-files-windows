@@ -1,11 +1,11 @@
-# iCloud Drive for Windows
+# iCloud Files for Windows
 
 [![Release](https://img.shields.io/github/v/release/taylorivanoff/icloud-files-windows)](https://github.com/taylorivanoff/icloud-files-windows/releases)
 [![Downloads](https://img.shields.io/github/downloads/taylorivanoff/icloud-files-windows/total)](https://github.com/taylorivanoff/icloud-files-windows/releases)
 [![License](https://img.shields.io/github/license/taylorivanoff/icloud-files-windows)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
-iCloud Drive desktop app for Windows. Access iCloud Drive from [icloud.com](https://www.icloud.com/).
+iCloud Files desktop app for Windows. Access iCloud Files from [icloud.com](https://www.icloud.com/).
 
 ## Features
 
