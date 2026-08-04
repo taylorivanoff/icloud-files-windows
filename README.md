@@ -1,11 +1,13 @@
-# iCloud Files for Windows
+# iCloud Drive for Windows — Unofficial Desktop App
 
 [![Release](https://img.shields.io/github/v/release/taylorivanoff/icloud-drive-windows)](https://github.com/taylorivanoff/icloud-drive-windows/releases)
 [![Downloads](https://img.shields.io/github/downloads/taylorivanoff/icloud-drive-windows/total)](https://github.com/taylorivanoff/icloud-drive-windows/releases)
 [![License](https://img.shields.io/github/license/taylorivanoff/icloud-drive-windows)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
-A native Windows application for accessing iCloud Files from [icloud.com](https://www.icloud.com/).
+Unofficial **iCloud Drive for Windows** desktop app. Access iCloud Drive / Files from [icloud.com](https://www.icloud.com/) in a dedicated Electron client with system tray, auto-updates, and shared Apple ID authentication.
+
+Open iCloud Drive in a Windows desktop app with system tray, session persistence, and shared Apple ID login across related iCloud apps.
 
 ## Features
 
@@ -36,6 +38,10 @@ bun run start
 ```bash
 bun run release
 ```
+
+## Keywords
+
+iCloud Drive for Windows, iCloud Files Windows app, iCloud Drive desktop client, unofficial iCloud Drive PC app
 
 ## Contributing
 
