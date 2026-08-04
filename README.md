@@ -1,13 +1,11 @@
-# iCloud Drive for Windows — Unofficial Desktop App
+# iCloud Drive for Windows
 
-[![Release](https://img.shields.io/github/v/release/taylorivanoff/icloud-drive-windows)](https://github.com/taylorivanoff/icloud-drive-windows/releases)
-[![Downloads](https://img.shields.io/github/downloads/taylorivanoff/icloud-drive-windows/total)](https://github.com/taylorivanoff/icloud-drive-windows/releases)
-[![License](https://img.shields.io/github/license/taylorivanoff/icloud-drive-windows)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/taylorivanoff/icloud-files-windows)](https://github.com/taylorivanoff/icloud-files-windows/releases)
+[![Downloads](https://img.shields.io/github/downloads/taylorivanoff/icloud-files-windows/total)](https://github.com/taylorivanoff/icloud-files-windows/releases)
+[![License](https://img.shields.io/github/license/taylorivanoff/icloud-files-windows)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
-Unofficial **iCloud Drive for Windows** desktop app. Access iCloud Drive / Files from [icloud.com](https://www.icloud.com/) in a dedicated Electron client with system tray, auto-updates, and shared Apple ID authentication.
-
-Open iCloud Drive in a Windows desktop app with system tray, session persistence, and shared Apple ID login across related iCloud apps.
+iCloud Drive desktop app for Windows. Access iCloud Drive from [icloud.com](https://www.icloud.com/).
 
 ## Features
 
@@ -22,7 +20,7 @@ Open iCloud Drive in a Windows desktop app with system tray, session persistence
 
 ## Installation
 
-1. Download the latest installer from [Releases](https://github.com/taylorivanoff/icloud-drive-windows/releases)
+1. Download the latest installer from [Releases](https://github.com/taylorivanoff/icloud-files-windows/releases)
 2. Run the installer and follow the prompts
 3. Sign in with your Apple ID
 
@@ -41,7 +39,7 @@ bun run release
 
 ## Keywords
 
-iCloud Drive for Windows, iCloud Files Windows app, iCloud Drive desktop client, unofficial iCloud Drive PC app
+iCloud Drive for Windows, iCloud Files Windows app, iCloud Drive desktop client, iCloud Drive PC app
 
 ## Contributing
 
