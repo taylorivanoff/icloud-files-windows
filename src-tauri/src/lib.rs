@@ -4,7 +4,7 @@ pub fn run() {
         tauri_icloud_base::IcloudAppConfig {
             app_name: "iCloud Drive",
             url: "https://www.icloud.com/iclouddrive",
-            remove_toolbar: false,
+            remove_toolbar: true,
         },
         tauri::generate_context!(),
     );
